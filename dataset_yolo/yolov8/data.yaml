@@ -1,0 +1,4 @@
+names:
+  0: Tumor
+path: .
+train: train.txt

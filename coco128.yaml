@@ -1,0 +1,6 @@
+path: /content/drive/MyDrive/Detection_of_Brain_Tumor/YOLOV8/DATASET/data
+train: /content/drive/MyDrive/Detection_of_Brain_Tumor/YOLOV8/DATASET/data/images/train
+val: /content/drive/MyDrive/Detection_of_Brain_Tumor/YOLOV8/DATASET/data/images/val
+
+nc: 1
+names: ['Tumor']

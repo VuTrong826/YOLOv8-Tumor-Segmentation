@@ -5,4 +5,4 @@
 
 Some output predictions for experiments
 
-<img src="test_results/yolo_test_resultssss/test.jpg" width="280"> <img src="test_results/yolo_test_resultssss/test10.jpg" width="280"> <img src="test_results/results_best2/test16.jpg" width="280"><img src="test_results/test_results/results_best2/test23.jpg" width="280">
+<img src="test_results/yolo_test_resultssss/test.jpg" width="280"> <img src="test_results/yolo_test_resultssss/test10.jpg" width="280"> <img src="test_results/results_best2/test16.jpg" width="280"><img src="test_results/results_best2/test23.jpg" width="280">
